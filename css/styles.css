@@ -30,7 +30,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-top: 10px; /* Adjust the margin-top as needed */
+  margin-top: 10px; 
 }
 
 .search-input {
@@ -38,7 +38,7 @@
   width: 400px;
   font-size: 16px;
   border: 1px solid #ccc;
-  border-radius: 20px; /* Added border-radius property */
+  border-radius: 20px; 
   outline: none;
   margin-bottom: 10px;
 }
@@ -50,8 +50,7 @@
 }
 
 .search-button, .Dorya-button {
-  margin: 0 5px; /* Adjust the button margin as needed */
-  /* ...existing styles... */
+  margin: 0 5px; 
 }
 
 .search-button,
@@ -60,7 +59,7 @@
   padding: 10px 20px;
   font-size: 16px;
   border: none;
-  border-radius: 20px; /* Added border-radius property */
+  border-radius: 20px; 
   background-color: #4285f4;
   color: #fff;
   cursor: pointer;
